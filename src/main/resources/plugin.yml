@@ -1,0 +1,4 @@
+name: GoldenArmor
+main: xyz.acrylicstyle.gold.GoldenArmor
+version: "1.0-SNAPSHOT"
+api-version: "1.15"
